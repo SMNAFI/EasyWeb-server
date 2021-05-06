@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "A react website for a web development company displaying about company's information and their services. There are two separate dashboard for user and admin. \r [Client-Side Code](https://github.com/Porgramming-Hero-web-course/complete-website-client-SMNAFI) \\\r [Live Site](https://easyweb1.web.app/).",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMNAFI/EasyWeb-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SMNAFI/EasyWeb-server/issues"
+  },
+  "homepage": "https://github.com/SMNAFI/EasyWeb-server#readme"
 }
